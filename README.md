@@ -1,2 +1,2 @@
-# dio-bootcamp-microsoft-dynamic-repositorio
-Desafio de projeto Git/GitHub
+# dio-bootcamp-microsoft-dynamic365
+Repositório criado para o desafio de projeto Git/GitHub
